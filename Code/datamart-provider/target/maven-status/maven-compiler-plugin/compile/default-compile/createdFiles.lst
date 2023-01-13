@@ -1,7 +1,0 @@
-datalake\DatalakeFile.class
-datalake\POJO\Weather.class
-datalake\Datalake.class
-controller\Controller.class
-datamart\Database.class
-datamart\SQLiteDatabase.class
-runnable\DatamartMain.class
